@@ -13,3 +13,39 @@
  *= require_tree .
  *= require_self
  */
+ 
+ background-color: turquoise;
+  font-family: comic sans ms;
+  text-align: center;
+  border: 10px solid ghostwhite;
+  border-radius: 25px;
+}
+
+ol{
+  text-align: left;
+  font-family: comic sans ms;
+  color: coral;
+  font-size: 150%;
+  word-wrap: break-word;
+  width:1200px;
+  line-height:250%;
+}
+
+.headerbar{ position: fixed;
+    top:27px;
+    right:1px;
+    left:2px;
+}
+    
+    span{ 
+        color:brown;
+        text-align: right;
+        position: absolute;
+        right: 22px
+        
+        
+    
+}
+    li:hover{
+        font-weight:bold
+    }
