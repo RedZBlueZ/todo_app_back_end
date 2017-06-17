@@ -49,3 +49,36 @@ ol{
     li:hover{
         font-weight:bold
     }
+    
+    {
+  background-color: green;
+  font-family: comic sans ms;
+  text-align: center;
+  border: 10px solid ghostwhite;
+  border-radius: 25px;
+}
+
+ol{
+  text-align: left;
+  font-family: comic sans ms;
+  color: coral;
+  font-size: 150%;
+  word-wrap: break-word;
+  width:1200px;
+  line-height:250%;
+}
+h1{
+  text-align: center;
+  color: chartreuse;
+  border: 3px solid MediumSlateBlue;
+  width: 750px;
+  border-radius: 25px;
+}
+
+h3:hover{
+  color: aquamarine;
+}
+
+
+ .card { box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2); transition: 0.3s; }
+ .card:hover { box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2); }
